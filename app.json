@@ -1,9 +1,9 @@
 {
-  "name": "DAVE-X ULTRA",
-  "description": "DAVE X WhatsApp Bot",
+  "name": "Adevos-X Bot",
+  "description": "Adevos-X WhatsApp Bot",
   "logo": "https://h.uguu.se/GiYWpWoC.jpg",
   "keywords": ["whatsapp-bot"],
-  "repository": "https://github.com/Davex-254/DAVE-X",
+  "repository": "https://github.com/adevosxtech/adevosX-Bot",
   "stack": "container",
   "addons": [
     {
@@ -15,7 +15,7 @@
   },
   "env": {
     "SESSION_ID": {
-      "description": "Must begin with 'DAVE-X:~'.",
+      "description": "Must begin with 'ADEVOS-X:~'.",
       "value": "",
       "required": true
     }
