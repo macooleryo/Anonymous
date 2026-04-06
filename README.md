@@ -18,9 +18,9 @@
 
 ---
 
-## 🚀 DEPLOYMENT PLATFORMS
+## Deployment Platforms 
 
-<p align="center">Deploy <strong>DAVE-X-ULTRA</strong> instantly on your preferred platform.</p>
+<p align="center">Deploy <strong>Adevos-X-Bot</strong> instantly on your preferred platform.</p>
 
 <div align="center">
   <table>
@@ -44,30 +44,7 @@
 
 ---
 
-## 🎥 VIDEO TUTORIAL
-
-<p align="center">
-  <a href="https://youtu.be/wJKMV0BSqpE?si=6Y11rPD0t2ykoxB8" target="_blank">
-    <img src="https://img.shields.io/badge/📺_WATCH_TUTORIAL-red?style=for-the-badge&logo=youtube&logoColor=white" width="280">
-  </a>
-</p>
-
-<p align="center">
-  <strong>How to deploy DAVE-X-ULTRA on any panel in 2026</strong><br>
-  Step-by-step video guide — get your bot running in minutes.
-</p>
-
----
-
-## 👨‍💻 ABOUT THE AUTHOR
-
-> **Dave Tech** — building powerful bots with passion.  
-> 🎬 Also check out my movie streaming site:  
-> 👉 [**DAVEXMOVIES**](https://www.davex-moviezone.zone.id) — stream the latest movies & TV shows for free!
-
----
-
-## 📌 QUICK TIPS
+## Tips
 
 - On free panels, set your session ID in the `.env` file
 - If the bot stops responding, try generating a new session ID or redeploy
@@ -75,14 +52,23 @@
 
 ---
 
-## ⭐ SUPPORT THE PROJECT
+## Support 
 
 If you find this bot useful, consider:
 - ⭐ Starring the repository
 - 🍴 Forking for your own use
 - 📢 Sharing with friends
-- 💬 Leaving a comment on the tutorial
+- 💬 Powering the Future with Innovation.
 
 ---
 
-**© 2026 Dave Tech. All rights reserved.**
+## About
+
+**Adevos-X** Tech is a modern technology brand focused on creating smart, reliable, and innovative digital solutions. We specialize in bot development, automation, branding, and creative tech services that make communication easier and more efficient.
+
+Adevos-X Tech — CalmX | SilentPower.
+
+
+---
+
+**© Adevos-X Tech. All rights reserved.**
