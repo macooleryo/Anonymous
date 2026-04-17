@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://files.catbox.moe/8yz3ex.jpg" alt="𝐀𝐧𝐨𝐧𝐲𝐦𝐨𝐮𝐬 𝐀𝐢" width="300"/>
+  <img src="https://files.catbox.moe/3wvazu.png" alt="𝐀𝐧𝐨𝐧𝐲𝐦𝐨𝐮𝐬 𝐀𝐢" width="300"/>
 </p>
 
 <p align="center">
