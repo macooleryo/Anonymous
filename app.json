@@ -1,9 +1,9 @@
 {
-  "name": "Adevos-X Bot",
-  "description": "Adevos-X WhatsApp Bot",
-  "logo": "https://h.uguu.se/GiYWpWoC.jpg",
+  "name": " Anonymous",
+  "description": "ᴀ ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴢᴜᴋᴀ",
+  "logo": "https://files.catbox.moe/8yz3ex.jpg",
   "keywords": ["whatsapp-bot"],
-  "repository": "https://github.com/adevosxtech/adevosX-Bot",
+  "repository": "https://github.com/macooleryo/Anonymous",
   "stack": "container",
   "addons": [
     {
@@ -15,8 +15,8 @@
   },
   "env": {
     "SESSION_ID": {
-      "description": "Must begin with 'ADEVOS-X:~'.",
-      "value": "",
+      "description": "Must begin with 'Anonymous:~'.",
+      "value": "ADEVOS-X:~eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiSU90RzJueHBibFgzOVdDNEFVSGpDOGlWUEg2QjVBTkxJa2t3aU5OeVltRT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQ2xEWUFJZmJYdHdzbnhnd2NyUHRRLzlpYWVNc002aFZHQTRiRHgzcDdDQT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJTQ1NnVEQrMW0xekU2T0RXUEw3M25scU1yS0JvU0h2K2poUHorbDRFcFVnPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiIySmhyM1Q2dW9rRnJ4NUZWV2JMSmhUQlZHbWE1VXVCeUVwR1dkcmVKdjM4PSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlVFRm9jS0Z3LzQ0MGJvbTlhYjc0YU4wNGlGTThCcTNjM3NYK3B4ZE5MWGc9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlRyakkyRldWNUVGTGRnbnpNSktUSjN0TnZWeEFNWmlOaFp1cXVWQmtrV0E9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiZ09rVDJsMnl6end1TkN4Q1REOGgxa3JNSWdXUjh2TUV2cDlTZXhvS0UzRT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiZkIxdUNuaThnY0l6Zmc1a0E4NS93d1ozdzd4akttQ0pOSEo3VFlaamJpUT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjhEdUdQQUZQbk5QVVVyVnR3bENvT0I1TEp3YVBSQWljK0pZK0hpSTdFQ2doMWVMVXoyaGlNTEs2Y1JtNitKaVZlUXBkbnpKQ0pSM1NrajRhV3Q0ZkJBPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTksImFkdlNlY3JldEtleSI6IkJwR09adDdXSXZFb0x4dW1iNVdWY1hVT2dlUXJ1TzJySHNFQXo0WG1vSnc9IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbXSwibmV4dFByZUtleUlkIjoxNjI1LCJmaXJzdFVudXBsb2FkZWRQcmVLZXlJZCI6MTYyNSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwicmVnaXN0ZXJlZCI6dHJ1ZSwicGFpcmluZ0NvZGUiOiJZVVBSQURFViIsIm1lIjp7ImlkIjoiMjYzNzg5NTQ0NzQzOjMyQHMud2hhdHNhcHAubmV0IiwibGlkIjoiMjE5MDk1MjU3NjQxMDkyOjMyQGxpZCJ9LCJhY2NvdW50Ijp7ImRldGFpbHMiOiJDTEtsZ09FRkVPZVhpczhHR0FFZ0FDZ0EiLCJhY2NvdW50U2lnbmF0dXJlS2V5IjoiT2xScWY5RWtZK2ltWk9sT1RGZjY5eEQzZEhCdVdCZGZTVUw5WHRoSXFScz0iLCJhY2NvdW50U2lnbmF0dXJlIjoiQ3YybU5OSjBDM05XYSs4dXltRUNrM3F5T1VkTmZQK25HOUVNcGtXam9aTUUzK041WVp4S3ZEbnluNXY3b2U3U1djZ1poRUYzUng1Y09yMk9HT09pQ3c9PSIsImRldmljZVNpZ25hdHVyZSI6Im9jbk5KL2k0cms2RkgyekxCUXVDZ3B4Wit5QnZDcW5LM0pzSkV5ckx2cEZwZmlISDFrUW5FTkhYV0RoTjJHYlBsZklvMk1zZUxld1l3RnM1ckNXWERRPT0ifSwic2lnbmFsSWRlbnRpdGllcyI6W3siaWRlbnRpZmllciI6eyJuYW1lIjoiMjYzNzg5NTQ0NzQzOjMyQHMud2hhdHNhcHAubmV0IiwiZGV2aWNlSWQiOjB9LCJpZGVudGlmaWVyS2V5Ijp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQlRwVWFuL1JKR1BvcG1UcFRreFgrdmNROTNSd2JsZ1hYMGxDL1Y3WVNLa2IifX1dLCJwbGF0Zm9ybSI6ImFuZHJvaWQiLCJyb3V0aW5nSW5mbyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkNBa0lFZ2dJIn0sImxhc3RBY2NvdW50U3luY1RpbWVzdGFtcCI6MTc3NjQ1NDY0OSwibXlBcHBTdGF0ZUtleUlkIjoiQUFBQUFEbk0ifQ==",
       "required": true
     }
   },
