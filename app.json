@@ -1,0 +1,20 @@
+{
+  "name": "Anonymous Ai",
+  "description": "Anonymous Ai WhatsApp Bot",
+  "logo": "https://files.catbox.moe/8yz3ex.jpg",
+  "keywords": ["whatsapp-bot", "bot"],
+  "repository": "https://github.com/macooleryo/Anonymous",
+  "stack": "container",
+  "env": {
+    "SESSION_ID": {
+      "description": "Your WhatsApp session ID",
+      "value": "",
+      "required": false
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
+}
